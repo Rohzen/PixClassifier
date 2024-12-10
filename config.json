@@ -1,0 +1,15 @@
+{
+    "priority_settings": {
+        "priority": "quality"
+    },
+    "noise_thresholds": {
+        "high": 100,
+        "medium": 50
+    },
+    "quality_parameters": {
+        "dpi_high": 300,
+        "resolution_high": 6000000,
+        "dpi_medium": 150,
+        "resolution_medium": 2000000
+    }
+}
