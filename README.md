@@ -58,4 +58,4 @@ Drag and drop your images into the input folder and watch as they are sorted bas
 ![PixClassifier Icon](assets/icon.png)
 
 ## License
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the [GPL v3](LICENSE).
